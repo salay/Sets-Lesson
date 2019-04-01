@@ -1,2 +1,2 @@
 Sets
-![Screenshot ](../master/assets/Sets_Image_1.png)
+![Screenshot ](../master/assets/Set_Image_1.png)
