@@ -22,7 +22,9 @@ Sets are better for keep track of TYPES or ATTRIBUTES of items rather than the n
 
 
 APPLICATIONS OF SETS:
-
+- If we know it advance that we do not want to save duplicate data to our structure
+- Want to maintain distinct data with minimal effort 
+- You do not care about the order of items in the set
 
 EXAMPLES OF SETS:
 
