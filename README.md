@@ -28,3 +28,6 @@ EXAMPLES OF SETS:
 
 
 KINDS OF SETS:
+- Finite: limited number of members.
+- Infinite: unlimited number of members.
+- Well-defined: A set is well-defined if there is no ambiguity as to whether or not an object belongs to it, i.e., a set is defined so that we can always tell what is and what is not a member of the set.
