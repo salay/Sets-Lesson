@@ -13,7 +13,6 @@ elements or (2) by giving a property that all elements must satisfy."
 The main difference between sets and array is that you cannot repeat values in a set, and sets are keyed not indexed (so lookup is faster).
 Sets are better for keep track of TYPES or ATTRIBUTES of items rather than the number of them. It's better at keeping a log of all the types of fruit in your fruit salad, but not the number of each fruit you used (since values cannot be repeated).
 
-
 APPLICATIONS OF SETS:
 - If we know it advance that we do not want to save duplicate data to our structure
 - Want to maintain distinct data with minimal effort 
@@ -28,6 +27,8 @@ KINDS OF SETS:
 - Finite: limited number of members.
 - Infinite: unlimited number of members.
 - Well-defined: A set is well-defined if there is no ambiguity as to whether or not an object belongs to it, i.e., a set is defined so that we can always tell what is and what is not a member of the set.
+
+https://www.youtube.com/watch?v=rRk0d6P4oUI
 
 ```/* Sets */
 
