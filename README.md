@@ -27,7 +27,9 @@ APPLICATIONS OF SETS:
 - You do not care about the order of items in the set
 
 EXAMPLES OF SETS:
-
+- The items you wear: hat, shirt, jacket, pants, and so on
+- Types of birds 
+- All the different languages
 
 KINDS OF SETS:
 - Finite: limited number of members.
